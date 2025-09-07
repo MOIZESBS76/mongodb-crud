@@ -1,0 +1,25 @@
+# Pastas de ambiente virtual
+venv/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Arquivos de documentos que você não quer versionar
+*.docx
+*.doc
+*.rtf
+*.pdf
+~$* # Arquivos temporários do Word
+
+# Logs
+*.log
+
+# Arquivos de IDEs (VS Code)
+.vscode/
+
+# Ignorar o diretório .git/ que contém o repositório Git em si (já tratado, mas bom ter)
+.git/
